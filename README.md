@@ -1,14 +1,6 @@
 # BÁO CÁO NHIỆM VỤ 1.2: CẤU HÌNH PHẦN MỀM CƠ BẢN
 
-## 1. Thông tin chung
-* **Nhóm thực hiện: Nhóm 1
-* **Tên thành viên:** [Bùi Trương Bảo Ngọc _ Nguyễn Thái Anh _ Lê Phạm Gia Bảo _ Trần Ngọc Thiên Bảo]
-* **Lớp / Học phần:** [CT005_D12 / NỀN TẢNG CÔNG NGHỆ SỐ]
-* **Nhiệm vụ:** Cấu hình phần mềm Notepad++ và chạy mã nguồn Python.
-
----
-
-## 2. Quy trình thực hiện
+## Quy trình thực hiện
 
 1. **Tham vấn AI:** Sử dụng công cụ AI (Gemini) để tra cứu quy trình cài đặt và cấu hình Notepad++ trên Windows.
 2. **Cài đặt phần mềm:**
@@ -26,8 +18,14 @@
 
 ## 3. Kết quả đạt được
 
+### Cấu hình phím tắt chạy Python:
+![Cấu hình lệnh thực thi và phím tắt cho Python](NV1.2_RunPython.png)
+
+### Kết quả chạy Python:
+![Kết quả chạy Python trên Notepad++](NV1.2_Notepad.png)
+
 ### File mã nguồn Python:
-Mã nguồn được lưu tại file `NV1.2.py`.
+Mã nguồn được lưu tại file `NV1.2_Python.py`.
 
 ```python
 print("Hello, AI!")
