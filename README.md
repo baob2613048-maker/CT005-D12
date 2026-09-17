@@ -1,6 +1,6 @@
 # BÁO CÁO NHIỆM VỤ 1.2: CẤU HÌNH PHẦN MỀM CƠ BẢN
 
-## 1. Quy trình thực hiện
+## A. Quy trình thực hiện
 
 1. **Tham vấn AI:** Sử dụng công cụ AI (Gemini) để tra cứu quy trình cài đặt và cấu hình Notepad++ trên Windows.
 2. **Cài đặt phần mềm:**
@@ -16,15 +16,15 @@
 
 ---
 
-## 2. Kết quả đạt được
+## B. Kết quả đạt được
 
-### Cấu hình phím tắt chạy Python:
+### 1. Cấu hình phím tắt chạy Python:
 ![Cấu hình lệnh thực thi và phím tắt cho Python](NV1.2_RunPython.png)
 
-### Kết quả chạy Python:
+### 2. Kết quả chạy Python:
 ![Kết quả chạy Python trên Notepad++](NV1.2_Notepad.png)
 
-### File mã nguồn Python:
+### 3. File mã nguồn Python:
 Mã nguồn được lưu tại file `NV1.2_Python.py`.
 
 ```python
@@ -32,5 +32,5 @@ print("Hello, AI!")
 
 ---
 ```
-## 3. Nguồn dẫn
+## C. Nguồn dẫn
 * Toàn bộ quy trình cài đặt và cấu hình được thực hiện dưới sự hỗ trợ và tham tham khảo từ công cụ AI (Gemini).
